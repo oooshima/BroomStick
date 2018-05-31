@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 34f1788f970074061b1a5010efe4a512
+timeCreated: 1508857517
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GD-????????JA-OTF
+  fontNames:
+  - GD-????????JA-OTF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
